@@ -1,4 +1,4 @@
-package PARCIAL_II;
+package Class;
 
 public abstract class Criatura {
 

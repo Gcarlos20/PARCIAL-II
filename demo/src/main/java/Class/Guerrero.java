@@ -1,5 +1,4 @@
 package Class;
-import PARCIAL_II.Criatura;
 
 /** Guerrero: ataca con su arma y bloquea parte del golpe con el escudo. */
 public class Guerrero extends Criatura {
