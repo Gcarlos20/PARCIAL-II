@@ -14,8 +14,10 @@ LITOOOOOO
 **Integrante** Juan david Gonzalez
 
 ## Parte complicada 
-Puse el archivo de main de la estructura de la carpeta donde no iba entonces se corrigio tambien cree una rama pero fue inproductiva a la hora de realizar cambios ya que tenia un version anterior a 
-a la estructura del proyecto creada 
+Al momento de desarrollar el parcial tuve algunos inconvenientes con la estructura del proyecto. Inicialmente ubiqué el archivo principal en una carpeta incorrecta y después fue necesario moverlo para que quedara dentro de la estructura Maven. También tuve problemas con una rama de GitHub que estaba desactualizada respecto a la rama principal, por lo que tuve que crear una nueva rama para poder seguir trabajando sin conflictos.
+
+## Uso de Inteligencia Artificial
+Utilicé inteligencia artificial como apoyo para aclarar dudas sobre algunos conceptos vistos en clase y para orientarme en la creación de la simulación principal del proyecto. También me ayudó a comprender mejor el uso de ramas, commits y pull requests en GitHub. La información obtenida fue revisada antes de aplicarla al PARCIAL II.
 
 ## Diagrama de clases
 
