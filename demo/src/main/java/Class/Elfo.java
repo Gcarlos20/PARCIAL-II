@@ -3,7 +3,7 @@ package Class;
 public class Elfo extends Criatura {
 
     private String arco;
-
+// El elfo tiene un atributo privado llamado arco, que representa el arco que utiliza para atacar. La clase Elfo hereda de la clase Criatura, lo que significa que tiene todos los atributos y métodos de la clase Criatura, además de sus propios atributos y métodos específicos.
     public Elfo(String nombre, int salud, int fuerza, String arco) {
         super(nombre, salud, fuerza);
         this.arco = arco;

@@ -7,6 +7,8 @@ import Class.Mago;
 
 public class App {
     public static void main(String[] args) {
+
+        /* Crear criaturas */
         Dragon dragon = new Dragon(
                 "Smaug",
                 100,
@@ -32,7 +34,7 @@ public class App {
                 "Arco Largo");
 
         System.out.println("=== INICIO DE LA BATALLA ===");
-
+            /*simulacion de ataques */
         dragon.atacar(guerrero);
 
         mago.atacar(dragon);
@@ -42,7 +44,7 @@ public class App {
         elfo.atacar(mago);
 
         System.out.println("\n=== ESTADO FINAL ===");
-
+            /* Mostrar el estado final de cada criatura */
         System.out.println(
                 dragon.getNombre()
                         + " vivo: "
