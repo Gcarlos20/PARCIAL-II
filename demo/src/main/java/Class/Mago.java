@@ -1,3 +1,5 @@
+package Class;
+
 public class Mago extends Criatura {
 
     private String hechizos;
